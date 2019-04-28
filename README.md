@@ -1,7 +1,7 @@
 # foo-html-css
 This is where I will upload foocoding week0 and week1
 TASK:
-Make your own web resume:
+ <!---Make your own web resume:
 One page
 Two files: HTML and CSS
 Include the following:
@@ -18,4 +18,4 @@ Another list (<ul>). In this list you include the most important platforms/resou
 <img>
 <p>
 Some CSS properties: margin, padding
-Make sure that you page looks nice, and that your text is readable & accessible (ARIA)
+Make sure that you page looks nice, and that your text is readable & accessible (ARIA)-->
